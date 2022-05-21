@@ -1,0 +1,2 @@
+Projeto de Monitoria para a disciplina de Programação Funcional da Universidade do Estado de Santa Catarina (UDESC).
+Listas de Exercícios resolvidos durante as monitorias para auxiliar os alunos na compreensão da matéria.
